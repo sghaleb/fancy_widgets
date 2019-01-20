@@ -2,7 +2,7 @@
 
 A set of fancy widgets for Flutter.
 
-##Usage
+Usage
 
 To use this plugin, add fancy_widgets as a dependency in your pubspec.yaml file.
 
