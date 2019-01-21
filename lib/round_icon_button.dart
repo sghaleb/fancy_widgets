@@ -6,11 +6,13 @@ class RoundIconButton extends StatelessWidget {
   final double radius;
   final IconData icon;
   final double elevation;
+  final Color splashColor;
 
   final Function() onPressed;
 
   RoundIconButton(
       {this.color,
+      this.splashColor: const Color(0X4DFFFFFF),
       this.radius,
       this.icon,
       this.backgroundColor,
@@ -54,7 +56,7 @@ class RoundIconButton extends StatelessWidget {
                     Radius.circular(radius * 2),
                   ),
                 ),
-                splashColor: Colors.white.withOpacity(.3),
+                splashColor: splashColor,
                 enableFeedback: true,
                 excludeFromSemantics: false,
                 onTap: onPressed,
