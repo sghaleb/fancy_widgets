@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - 2019-01-21.
 
-* TODO: Describe initial release.
+initial release with 2 widgets RoundIconButton & RibbonBannerButton
