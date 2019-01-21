@@ -1,7 +1,7 @@
 name: fancy_widgets
 description: A set of fancy widgets for Flutter.
 version: 0.0.1
-author: Saleh Ghaleb
+author: Saleh Ghaleb <sghalebb@meeshosoft.com>
 homepage: https://github.com/sghaleb/fancy_widgets
 
 environment:
